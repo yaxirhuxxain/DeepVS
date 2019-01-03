@@ -1,11 +1,3 @@
-# DeepVS: A deep learning based source code suggestion tool.
-
-This repository contains our DeepVS tool which leverages from deep learning based model
-to suggest the next source code in an IDE instantly. There are two versions of DeepVS tool. First, based on our Deep Cloud platform. Second, DeepVS(Local) version can be used with a custom Cloud/Server/Local platform for source code suggestion tasks.
-
-#DeepVS
-This version use our Deep Cloud based platform which leverage from our previously proposed CodeGRU model. 
-
 #DeepVS (Local)
 With this version software developers can integrate their custom models with our DeepVS tool. Follow these steps to setup DeepVS (local) tool.
 
