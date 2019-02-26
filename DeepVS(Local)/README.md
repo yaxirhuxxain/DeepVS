@@ -3,7 +3,7 @@ With this version software developers can integrate their custom models with our
 
 1. Download DeepVS (Local) plugin for Visual Studio Code IDE.
 
-2. Edit your "Host" file the location of the file may varies based on your operating system.
+2. Edit your "Host" file, the location of the file may vary based on your operating system.
 	* Windows -  C:\Windows\System32\drivers\etc\hosts)
 	* Linux - /etc/hosts
 	* Mac OS X - /private/etc/hosts
