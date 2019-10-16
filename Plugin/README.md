@@ -11,7 +11,8 @@ By triggering the tool it takes source code at the current cursor position and s
 ### Demo
 ![DeepVS Setup Demo](../Demo/example.gif)
 
-Note: The DeepVS tool works better when auto-completion is turned off and being triggered manually by using ctrl+space.
+#### Note: 
+The DeepVS tool works better when auto-completion is turned off and being triggered manually by using ctrl+space.
 To turn off the auto-completion put below code in your 'settings.json' file in vs code settings.
 
 ```
