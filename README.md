@@ -23,9 +23,10 @@ please use the following citation if you use this work:
 @article{hussain2019deepvs,
     title={DeepVS: An Efficient and Generic Approach for Source Code Modeling Usage},
     author={Yasir Hussain and Zhiqiu Huang and Yu Zhou and Senzhang Wang},
-    year={2019},
-    eprint={1910.06500},
-    url = {http://arxiv.org/abs/1910.06500},
-    archivePrefix={arXiv},
+    journal   = {Electronics Letters},
+    volume    = {Volume: 56 , Issue: 12},
+    year      = {2020},
+    url       = {https://doi.org/10.1049/el.2020.0500},
+    eprint    = {http://arxiv.org/abs/1910.06500}
 }
 ```
